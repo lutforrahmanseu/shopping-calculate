@@ -1,5 +1,6 @@
 1.WEB SITE NAME : SHOPPING CALCULATOR
 
+Live Link:https://shopping-calculator1.netlify.app/
 
 2.USING : HTML,CSS,TAILWIND CSS ,VANILA JAVASCRIPT
 
